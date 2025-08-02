@@ -42,10 +42,11 @@ cd smart-resume-backend
 ⚙️ Make sure to update application.properties with the correct path to resume_analyzer.py.
 
 ### 3. Frontend Setup
-``bash
+```bash
 cd smart-resume-frontend
 npm install
 npm start
+```
 ## 📤 Usage
 
 - Open the frontend at http://localhost:3000
