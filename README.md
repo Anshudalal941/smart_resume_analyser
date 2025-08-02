@@ -46,28 +46,22 @@ cd smart-resume-backend
 cd smart-resume-frontend
 npm install
 npm start
-```
-📤 Usage
+## 📤 Usage
 
-Open the frontend at http://localhost:3000
+- Open the frontend at http://localhost:3000
 
-Upload a resume file
+- Upload a resume file
 
-Enter comma-separated required skills (e.g. Java, Spring, React)
+- Enter comma-separated required skills (e.g. Java, Spring, React)
 
-Click Analyze
+- Click Analyze
 
-View results: match percentage, matched & missing skills
+- View results: match percentage, matched & missing skills
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to improve.
 
-📜 License
+## 📜 License
 
-MIT License © 2025 Anshu Dalal
-
-
----
-
-If you want to add a project screenshot, badges, or deployment instructions (e.g. Docker or cloud 
+License © 2025 Anshu Dalal
