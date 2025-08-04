@@ -13,7 +13,7 @@ def fuzzy_match(skills, keywords, cutoff=0.8):
         matches = get_close_matches(skill, keywords, n=1, cutoff=cutoff)
         if matches:
             matched.add(skill)
-    return matched
+    return matched 
 
 def analyze_resume(resume_text, required_skills):
     resume_keywords = extract_keywords(resume_text)
