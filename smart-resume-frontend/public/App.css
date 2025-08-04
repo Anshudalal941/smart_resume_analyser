@@ -1,0 +1,12 @@
+form {
+  max-width: 600px;
+  padding: 1em;
+  background: #f4f4f4;
+  border-radius: 8px;
+}
+
+textarea, input {
+  width: 100%;
+  padding: 0.5em;
+  margin-top: 0.3em;
+}
